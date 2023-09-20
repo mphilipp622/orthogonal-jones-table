@@ -10,12 +10,12 @@ const columns = [
     {field: 'numDirectionChanges', headerName: 'Dir Changes', type: 'number', width: 150},
     {field: 'numFrames', headerName: 'Frames', type: 'number', width: 150},
     {field: 'height', headerName: 'Height', type: 'number', width: 150},
-    {field: 'numUp', headerName: 'Up', type: 'number', width: 150},
-    {field: 'numDown', headerName: 'Down', type: 'number', width: 150},
-    {field: 'numLeft', headerName: 'Left', type: 'number', width: 150},
-    {field: 'numRight', headerName: 'Right', type: 'number', width: 150},
-    {field: 'numNeutral', headerName: 'Neutral', type: 'number', width: 150},
-    {field: 'numBuffer', headerName: 'Buffer', type: 'number', width: 150},
+    {field: 'numUp', headerName: 'Total Up', type: 'number', width: 150},
+    {field: 'numDown', headerName: 'Total Down', type: 'number', width: 150},
+    {field: 'numLeft', headerName: 'Total Left', type: 'number', width: 150},
+    {field: 'numRight', headerName: 'Total Right', type: 'number', width: 150},
+    {field: 'numNeutral', headerName: 'Total Neutral', type: 'number', width: 150},
+    {field: 'numBuffer', headerName: 'Total Buffer', type: 'number', width: 150},
 ];
 
 function OJTable() {
