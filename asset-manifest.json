@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/orthogonal-jones-table/static/css/main.91bfe296.css",
-    "main.js": "/orthogonal-jones-table/static/js/main.893602da.js",
+    "main.js": "/orthogonal-jones-table/static/js/main.cbb50133.js",
     "static/js/364.7928eb27.chunk.js": "/orthogonal-jones-table/static/js/364.7928eb27.chunk.js",
     "static/js/787.587f3113.chunk.js": "/orthogonal-jones-table/static/js/787.587f3113.chunk.js",
     "static/js/957.360710c9.chunk.js": "/orthogonal-jones-table/static/js/957.360710c9.chunk.js",
     "static/media/logo.svg": "/orthogonal-jones-table/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/orthogonal-jones-table/index.html",
     "main.91bfe296.css.map": "/orthogonal-jones-table/static/css/main.91bfe296.css.map",
-    "main.893602da.js.map": "/orthogonal-jones-table/static/js/main.893602da.js.map",
+    "main.cbb50133.js.map": "/orthogonal-jones-table/static/js/main.cbb50133.js.map",
     "364.7928eb27.chunk.js.map": "/orthogonal-jones-table/static/js/364.7928eb27.chunk.js.map",
     "787.587f3113.chunk.js.map": "/orthogonal-jones-table/static/js/787.587f3113.chunk.js.map",
     "957.360710c9.chunk.js.map": "/orthogonal-jones-table/static/js/957.360710c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91bfe296.css",
-    "static/js/main.893602da.js"
+    "static/js/main.cbb50133.js"
   ]
 }
