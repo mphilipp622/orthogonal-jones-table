@@ -1,4 +1,4 @@
-﻿import React, {useEffect, useState} from 'react';
+﻿import React, {Fragment, useEffect, useState} from 'react';
 import {ParsedOJ} from "./ParsedOJ";
 import Box from '@mui/material/Box';
 import {DataGrid} from '@mui/x-data-grid';
@@ -58,7 +58,7 @@ function OJTable() {
                     slots={{
                         toolbar: () => <Box>
                             <h4>Orthogonal Jones Table</h4>
-                            <text><b><i>Hover cell headers for filtering options</i></b></text>
+                            <Fragment><b><i>Hover cell headers for filtering options</i></b></Fragment>
                         </Box>
                     }}
                     initialState={{
